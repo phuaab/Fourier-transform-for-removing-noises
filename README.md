@@ -10,3 +10,5 @@ This code file is used for removing noises (i.e., horizontal lines in graph) by 
        python -m pip install -U matplotlib
 
 ## Convert image to gray scale anb conduct fourier transform  
+- Visualize fourier transform image after shifting
+<img src=".\images\filtered_rgb_image.png"  width=100% />
